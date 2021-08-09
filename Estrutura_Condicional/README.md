@@ -1,6 +1,6 @@
 # Exercícios de Estrutura Condicional
 
-1. Escreva o menu de opções abaixo. Leia a opção do usúario e execute a operação escolhida. Escreva uma mensagem de erro se a opção for inválida.
+**1. Escreva o menu de opções abaixo. Leia a opção do usúario e execute a operação escolhida. Escreva uma mensagem de erro se a opção for inválida.**
 
 - Escolha a opção:
 
